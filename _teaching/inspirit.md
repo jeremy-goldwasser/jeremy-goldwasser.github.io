@@ -1,9 +1,9 @@
 ---
-title: "Instructor"
+title: "Instructor, Inspirit AI"
 collection: teaching
 type: "Summer program"
-venue: "Inspirit AI"
+venue: "Inspirit"
 date: 2021-06-01
 ---
 
-Taught fundamentals of machine learning to young students through [Inspirit AI](https://www.inspiritai.com/).
+Taught fundamentals of machine learning to middle- and high-school students. 
