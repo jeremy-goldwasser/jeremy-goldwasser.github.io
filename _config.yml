@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Statistics PhD Student at UC Berkeley"
   location         : #"Berkeley, CA"
-  employer         : "University of California, Berkeley"
+  employer         : #"University of California, Berkeley"
   uri              : # URL
   email            : "jeremy_goldwasser@berkeley.edu" 
 
