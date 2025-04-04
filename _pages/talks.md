@@ -11,7 +11,7 @@ I wrote a [blog-esque document](/files/Tibbles_Group_Preference_Learning.pdf) on
 
 ### ML Interpretability
 
-Prof. Giles Hooker and I co-wrote two papers quantifying and reducing uncertainty in SHAP and other feature importance scores. [These slides](interpretability.pdf) overview both papers. I have presented this work at the following venues:
+Prof. Giles Hooker and I co-wrote two papers quantifying and reducing uncertainty in SHAP and other feature importance scores. [These slides](/files/interpretability.pdf) overview both papers. I have presented this work at the following venues:
 - Center for Human-Compatible AI
 - World Conference on Explainable Artificial Intelligence
 - Apple, Data Analytics and Quality group within Hardware Technologies
