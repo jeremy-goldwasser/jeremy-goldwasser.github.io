@@ -12,6 +12,9 @@ main:
   #   url: /publications/
     url: https://scholar.google.com/citations?user=R9DUEKcAAAAJ&hl=en
 
+  - title: "CV"
+    url: /files/Jeremy_Goldwasser_CV.pdf
+    
   # - title: "Talks"
   #   url: /talks/    
 
@@ -26,9 +29,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /files/Jeremy_Goldwasser_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
