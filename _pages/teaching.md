@@ -2,22 +2,14 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+author_profile: true
 ---
 
-## Teaching Experience
+### Graduate Student Instructor, UC Berkeley
 
-### Statistical Methods for Data Science
-**UC Berkeley – Undergraduate Course, 2022**  
-*Graduate Student Instructor for STAT 131A (Fall 2022)*
+- Statistical Methods for Data Science (STAT 131A), Fall 2022
+- Introduction to Programming in R (STAT 33A), Spring 2022)
 
----
 
-### Introduction to Programming in R
-**UC Berkeley – Undergraduate Course, 2022**  
-*Graduate Student Instructor for STAT 33A (Spring 2022)*
-
----
-
-### AI Instruction
-**Inspirit AI – Summer Program, 2021**  
-*Taught fundamentals of machine learning to middle- and high-school students.*
+### Inspirit AI
+- Taught fundamentals of machine learning to middle- and high-school students. Summer 2021.
