@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the Department of Statistics at UC Berkeley. I am fortunate to be advised by [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/), and also work closely with [Giles Hooker](https://gileshooker.com/) at UPenn. Before coming to Berkeley in 2021, I completed my B.S. at Yale University, where I worked on NLP with the late, great [Dragomir Radev](https://seas.yale.edu/news-events/news/memoriam-dragomir-radev-professor-computer-science). 
+I am a Ph.D. candidate in the Department of Statistics at UC Berkeley. I am fortunate to be advised by [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/), and also collaborate regularly with [Giles Hooker](https://gileshooker.com/) at UPenn. Before coming to Berkeley in 2021, I completed my B.S. at Yale University, where I did NLP research with the late [Dragomir Radev](https://seas.yale.edu/news-events/news/memoriam-dragomir-radev-professor-computer-science). 
 
-During my Ph.D., I interned in the computer vision group at Apple, designing interpretability methods to analyze failure modes of FaceID. The summer prior I was at Genentech, working on Digital Pathology with [Patrick Kimes](https://www.pkimes.com/). Back in 2019, I worked for a deep learning startup in beautiful Herzliya, Israel. 
+In summer 2024, I interned in the computer vision group at Apple, designing interpretability methods to analyze failure modes of FaceID. The year prior I worked on Digital Pathology at Genentech, hosted by [Patrick Kimes](https://www.pkimes.com/). Several years prior, I worked for a deep learning startup in Herzliya, Israel. 
 
 
 ## Research Interests
 
-My research aims to ensure the safe and effective deployment of machine learning. To that end, my work on black-box interpretability enhances the reliability of SHAP and LIME, and introduces new techniques to understand image models. I am also interested in uncertainty quantification, especially for rankings and time series. 
+My research aims to ensure the safe and effective deployment of machine learning in potentially high-stakes domains. To that end, my work on black-box interpretability enhances the reliability of SHAP and LIME, and introduces new techniques to understand image models. I am also interested in uncertainty quantification, especially for rankings and time series. 
 
 While I am broadly interested in ML for health, my current applied emphasis is in epidemiology. Through the [Delphi Group](https://delphi.cmu.edu/), I construct analytical and algorithmic tools to track infectious disease risks as they unfold in real-time. I regularly share our findings with public health organizations, including the CDC and local health departments.
 
