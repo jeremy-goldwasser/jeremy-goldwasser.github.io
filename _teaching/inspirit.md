@@ -1,8 +1,8 @@
 ---
-title: "Instructor, Inspirit AI"
+title: "AI Instructor"
 collection: teaching
 type: "Summer program"
-venue: "Inspirit"
+venue: "Inspirit AI"
 date: 2021-06-01
 ---
 
