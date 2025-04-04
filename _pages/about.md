@@ -23,7 +23,7 @@ While I am broadly interested in ML for health, my current applied emphasis is i
 Please feel free to reach out if you'd like to connect!
 
 ## News
-- *Feb 2025*: [Statistical Significance of Feature Importance Rankings](https://arxiv.org/abs/2401.15800) is online and in review at *UAI*.
-- *Jan 2025*: [Gaussian Rank Verification](https://arxiv.org/abs/2501.14142) is available on Arxiv, and is in review at *Stat*. 
-- *Dec 2024*: [Challenges in Estimating Time-Varying Epidemic Severity Rates from Aggregate Data](https://www.medrxiv.org/content/10.1101/2024.12.27.24319518v1) is up on MedRXiv, and has been submitted to *PLOS Comp Bio.* 
+- *Feb 2025*: [Statistical Significance of Feature Importance Rankings](https://arxiv.org/abs/2401.15800) is up.
+- *Jan 2025*: [Gaussian Rank Verification](https://arxiv.org/abs/2501.14142) is available on Arxiv.
+- *Dec 2024*: [Challenges in Estimating Time-Varying Epidemic Severity Rates from Aggregate Data](https://www.medrxiv.org/content/10.1101/2024.12.27.24319518v1) is on MedRXiv.
 - *Dec 2024*: I passed my Qualifying Exam! Thanks to my committee: Ryan Giordano, Will Fithian, Chris Paciorek, Ryan Tibshirani, and Giles Hooker. 
