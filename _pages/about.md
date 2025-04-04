@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Statistics at UC Berkeley. I am fortunate to be advised by [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/), and also collaborate regularly with [Giles Hooker](https://gileshooker.com/) at UPenn. Before coming to Berkeley in 2021, I completed my B.S. at Yale University, where I did NLP research with the late [Dragomir Radev](https://seas.yale.edu/news-events/news/memoriam-dragomir-radev-professor-computer-science). 
 
-In summer 2024, I interned in the computer vision group at Apple, designing interpretability methods to analyze failure modes of FaceID. The year prior I worked on Digital Pathology at Genentech, hosted by [Patrick Kimes](https://www.pkimes.com/). During my undergrad, I worked for a deep learning startup in Herzliya, Israel. 
+In summer 2024, I interned in the computer vision group at Apple, designing interpretability methods to analyze failure modes of FaceID. The year prior I worked on Digital Pathology at Genentech, hosted by [Patrick Kimes](https://www.pkimes.com/). During my undergrad, I worked for a deep learning startup, Voca.ai, in Herzliya, Israel. 
 
 
 ## Research Interests
@@ -20,11 +20,7 @@ My research aims to ensure the safe and effective deployment of machine learning
 
 While I am broadly interested in ML for health, my current applied emphasis is in epidemiology. Through the [Delphi Group](https://delphi.cmu.edu/), I construct analytical and algorithmic tools to track infectious disease risks as they unfold in real-time. I regularly share our findings with public health organizations, including the CDC and local health departments.
 
-## Other
-
-Outside of stats & ML, I love classical music, books, and national parks. Throughout grad school, I've performed in the flute section of the UC Berkeley Symphony Orchestra. Some highlights: [Alpine Symphony](https://www.youtube.com/watch?v=zhlrcdNwnCI&t=2329s&ab_channel=UCBerkeleyMusic), [Rachmaninoff 2](https://www.youtube.com/watch?v=cvEGVEJtI8U&list=PL2sVgxXY8koMfe_fcxomtJNX57Q5XR_ck&index=9&ab_channel=UCBerkeleyMusic), and [Mahler 5](https://www.youtube.com/watch?v=50JV_3pdjvY&t=7242s&ab_channel=UCBerkeleyMusic). 
-
-Please feel free to shoot me an email if you'd like to connect!
+Please feel free to reach out if you'd like to connect!
 
 ## News
 - *Feb 2025*: [Statistical Significance of Feature Importance Rankings](https://arxiv.org/abs/2401.15800) is online and in review at *UAI*.
