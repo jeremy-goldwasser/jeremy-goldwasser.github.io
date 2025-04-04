@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the Department of Statistics at UC Berkeley. I am fortunate to be advised by [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/), and also collaborate regularly with [Giles Hooker](https://gileshooker.com/) at UPenn. Before coming to Berkeley in 2021, I completed my B.S. at Yale University, where I did NLP research with the late [Dragomir Radev](https://seas.yale.edu/news-events/news/memoriam-dragomir-radev-professor-computer-science). 
+I am a Ph.D. candidate in the Department of Statistics at UC Berkeley, advised by [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/) and [Giles Hooker](https://gileshooker.com/). Before coming to Berkeley in 2021, I completed my B.S. at Yale University, where I did NLP research with the late [Dragomir Radev](https://seas.yale.edu/news-events/news/memoriam-dragomir-radev-professor-computer-science). 
 
-In summer 2024, I interned in the computer vision group at Apple, designing interpretability methods to analyze failure modes of FaceID. The year prior, I worked on Digital Pathology at Genentech, hosted by [Patrick Kimes](https://www.pkimes.com/). I spent a summer in undergrad at a deep learning startup, Voca.ai, in Israel. 
+In summer 2024, I interned in the computer vision group at Apple, designing interpretability methods to analyze failure modes of FaceID. The year prior, I worked on Digital Pathology at Genentech, hosted by [Patrick Kimes](https://www.pkimes.com/). I also spent a summer in undergrad at a deep learning startup in Israel. 
 
 
 ## Research Interests
