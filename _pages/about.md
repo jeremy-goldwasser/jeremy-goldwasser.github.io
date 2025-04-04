@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+## About Me
+
 I am a Ph.D. candidate in the Department of Statistics at UC Berkeley. I am fortunate to be advised by [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/), and also work closely with [Giles Hooker](https://gileshooker.com/) at UPenn. Before coming to Berkeley in 2021, I completed my B.S. at Yale University, where I worked on NLP with the late, great [Dragomir Radev](https://seas.yale.edu/news-events/news/memoriam-dragomir-radev-professor-computer-science). During my Ph.D., I have interned in Digital Pathology at Genentech with [Patrick Kimes](https://www.pkimes.com/). More recently, I worked in the computer vision group at Apple, designing interpretability methods to analyze failure modes of FaceID. 
 
 
