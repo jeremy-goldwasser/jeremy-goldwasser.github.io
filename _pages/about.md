@@ -23,8 +23,8 @@ While I am broadly interested in ML for health, my current applied emphasis is i
 Please feel free to reach out if you'd like to connect!
 
 ## News
-- *May 2025*. [Statistical Significance of Feature Importance Rankings](https://arxiv.org/abs/2401.15800) has been accepted at UAI! Our methods stabilize SHAP, LIME, and other interpretability methods using ideas from *Gaussian Rank Verification*.
-- *April 2025*. Interpretability for computer vision: [Unifying Image Counterfactuals and Feature Attributions with Latent-Space Adversarial Attacks](https://arxiv.org/abs/2504.15479) is on Arxiv.
+- *June 2025*. [Unifying Image Counterfactuals and Feature Attributions with Latent-Space Adversarial Attacks](https://arxiv.org/abs/2504.15479) has been accepted for the Actionable Interpretability Workshop at ICML.
+- *May 2025*. [Statistical Significance of Feature Importance Rankings](https://arxiv.org/abs/2401.15800) has been accepted for publication at UAI. Our methods stabilize SHAP, LIME, and other interpretability methods using ideas from *Gaussian Rank Verification*.
 - *Jan 2025*. Our new stats preprint, [Gaussian Rank Verification](https://arxiv.org/abs/2501.14142), is on Arxiv.
 - *Dec 2024*. [Challenges in Estimating Time-Varying Epidemic Severity Rates from Aggregate Data](https://www.medrxiv.org/content/10.1101/2024.12.27.24319518v1) is up on MedRxiv.
 - *Dec 2024*: I passed my Qualifying Exam! Thanks to my committee: Ryan Giordano, Will Fithian, Chris Paciorek, Ryan Tibshirani, and Giles Hooker. 
