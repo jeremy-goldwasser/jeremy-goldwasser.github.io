@@ -5,9 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Preference Learning & LLMs
 
-I wrote a [blog-esque document](/files/Tibbles_Group_Preference_Learning.pdf) on training LLMs for a lab presentation. Per its audience, it devotes a lot of energy towards motivating RLHF and DPO from a statistical perspective, via Bradley-Terry. 
+### LLMs & Statistics
+
+I wrote a [blog-esque document](/files/Tibbles_Group_Preference_Learning.pdf) on training LLMs for a lab presentation. Per its audience, it devotes a lot of focus towards motivating RLHF and DPO from a statistical perspective, via Bradley-Terry. 
+
+A subsequent LLM talk covered the statistical foundations of [watermarking](/files/Watermarking_Notes.pdf).
 
 ### ML Interpretability
 
