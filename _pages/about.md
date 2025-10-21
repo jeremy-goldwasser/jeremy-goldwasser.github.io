@@ -23,6 +23,7 @@ While I am broadly interested in ML for health, my current applied emphasis is i
 Please feel free to reach out if you'd like to connect!
 
 ## News
+- *Oct 2025*. [Estimating Time-Varying Epidemic Severity Rates with Adaptive Deconvolution](https://arxiv.org/abs/2510.16180) is up on Arxiv.
 - *Aug 2025*. [Gaussian Rank Verification](https://arxiv.org/abs/2501.14142) published in *Stat*. 
 - *July 2025*. [Unifying Image Counterfactuals and Feature Attributions with Latent-Space Adversarial Attacks](https://arxiv.org/abs/2504.15479) presented in the Actionable Interpretability Workshop at ICML.
 - *July 2025*. [Statistical Significance of Feature Importance Rankings](https://arxiv.org/abs/2401.15800) shared at UAI. Our methods stabilize SHAP, LIME, and other interpretability methods using ideas from *Gaussian Rank Verification*.
