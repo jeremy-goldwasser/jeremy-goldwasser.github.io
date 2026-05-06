@@ -22,7 +22,8 @@ repository               : "jeremy-goldwasser.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_cropped.jpg"
+  # avatar           : "headshot_cropped.jpg"
+  avatar           : "speech_cropped.png"
   name             : "Jeremy Goldwasser"
   pronouns         : # example: "she/her"  
   bio              : "Statistics PhD Student at UC Berkeley"
