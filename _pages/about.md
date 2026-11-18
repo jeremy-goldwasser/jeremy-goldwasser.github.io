@@ -16,17 +16,15 @@ During my Ph.D., I interned in the computer vision group at Apple, designing int
 
 ## Research Interests
 
-My research aims to ensure the safe and effective deployment of machine learning. To that end, my work on black-box interpretability enhances the reliability of SHAP and LIME, and introduces new techniques to understand image models. I also work on uncertainty quantification, with particular focus on rankings and time series.
+My research aims to ensure the safe and effective deployment of machine learning. To that end, my work on black-box interpretability enhances the reliability of SHAP and LIME, and introduces new techniques to understand image models. I have also worked on uncertainty quantification, with particular focus on rankings and time series.
 
 I am also broadly interested in ML for health, with an applied emphasis in epidemiology. Through the Delphi Group, I built analytical and algorithmic tools to track infectious disease risks as they unfold in real-time. 
 
 Please feel free to reach out if you'd like to connect!
 
 ## News
+- *Aug 2026*. I completed my Ph.D. and joined BlackRock AI Labs as a Research Scientist.
 - *July 2026*. [Estimating Time-Varying Epidemic Severity Rates with Adaptive Deconvolution](https://arxiv.org/abs/2510.16180) accepted in the *Annals of Applied Statistics*.
-- *Aug 2025*. I completed my Ph.D. and joined BlackRock AI Labs as a Research Scientist.
 - *Aug 2025*. [Gaussian Rank Verification](https://arxiv.org/abs/2501.14142) published in *Stat*. 
 - *July 2025*. [Unifying Image Counterfactuals and Feature Attributions with Latent-Space Adversarial Attacks](https://arxiv.org/abs/2504.15479) presented in the Actionable Interpretability Workshop at ICML.
 - *July 2025*. [Statistical Significance of Feature Importance Rankings](https://arxiv.org/abs/2401.15800) shared at UAI in Rio. Our methods stabilize SHAP, LIME, and other interpretability methods using ideas from *Gaussian Rank Verification*.
-<!-- - *Dec 2024*. [Challenges in Estimating Time-Varying Epidemic Severity Rates from Aggregate Data](https://www.medrxiv.org/content/10.1101/2024.12.27.24319518v1) is up on MedRxiv. -->
-<!-- - *Dec 2024*: I passed my Qualifying Exam! Thanks to my committee: Ryan Giordano, Will Fithian, Chris Paciorek, Ryan Tibshirani, and Giles Hooker. -->
